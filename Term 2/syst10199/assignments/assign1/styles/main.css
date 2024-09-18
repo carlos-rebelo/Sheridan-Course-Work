@@ -1,0 +1,41 @@
+/*
+Name:  Carlos Rebelo
+Assignment:  Assignment 1
+Date:  January 28th, 2024
+
+Page Description: This is the main CSS file for this application and defines
+all of the styles required for the main page in the app.
+Files: index.html (main page with form) main.css (style sheet for main page)
+*/
+/*Creating styles for input*/
+input {
+    
+    border-bottom-color: #669999;
+    border-left: white;
+    border-radius: 3px;
+    border-right: white;
+    border-top: white;
+    
+    
+    
+}
+/*Creating styles for input with required attribute*/
+input:required {
+    background-color: #ebe0e6;
+}
+/*Creating styles for input fields with invalid content*/
+input:invalid {
+    border-bottom-color: #7a5267;
+}
+/*Creating styles for input which are radio buttons*/
+input[type="radio"] {
+    display: block;
+    margin: 0.5em;
+ }
+/*Creating media query that styles when the media type is screen and the 
+screen size is 768px or larger*/
+@media screen and (min-width: 768px) {
+     input[type="radio"] {
+        display: inline-block;
+     }
+}

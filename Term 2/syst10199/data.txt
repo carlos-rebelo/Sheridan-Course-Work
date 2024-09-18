@@ -1,0 +1,53 @@
+headings in the table:
+Colour Code
+Colour Name
+Pigment Number
+
+Data for JSON (colour code / colour name / pigment number):
+347
+Lemon Yellow
+PY53
+
+502
+Permanent Rose
+PV19
+
+733
+Wingnut Purple
+PV23
+
+667
+Ultramarine
+PB29
+
+137
+Cerulean Blue
+PB35
+
+692
+Viridian
+PG18
+
+503
+Permanent Sap Green
+PG36,PY110
+
+744
+Yellow Ochre
+PY43
+
+74
+Burnt Sienna
+PR101
+
+465
+Paynes Grey
+PB15,PBk6,PV19
+
+337
+Lamp Black
+PBk6/7
+
+150
+Chinese White
+PW4

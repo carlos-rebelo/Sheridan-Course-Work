@@ -1,0 +1,5 @@
+package ca.sheridancollege.rebeloca.beans;
+
+public class Student {
+
+}

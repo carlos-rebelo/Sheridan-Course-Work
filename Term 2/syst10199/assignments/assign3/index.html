@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Assign 3</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="author" content="Carlos Rebelo">
+    <script src="scripts/main.js"></script>
+    <link rel="stylesheet" href="css/main.css">
+</head>
+
+<body>
+    <header>
+        <h1 id="h1">Rebelo's Form</h1>
+    </header>
+    <main>
+        <form name="demoform">
+            <div>
+                <label for="name">Username:
+                    <input type="text" id="name" name="username">
+                </label>
+            </div>
+            <div class="error" id="name-div"></div>
+            <br>
+            <div>
+                <label for="pass">Password:
+                    <input type="password" name="pword" id="pass">
+                </label>
+            </div>
+            <div id="pass-div" class="error"></div>
+            <br>
+            <div>
+                <label for="plan">Subscription Plan:<br>
+                    <select id="plan" name="plan" size="3">
+                        <option value="1">Basic</option>
+                        <option value="2">Pro</option>
+                        <option value="3">Premium</option>
+                    </select>
+                </label>
+            </div>
+            <div id="plan-div" class="error"></div>
+            <fieldset id="gender-field">
+                <legend>Gender</legend>
+                <label for="male">Male:
+                    <input type="radio" name="gender" id="male" value="male">
+                </label>
+                <label for="female">Female:
+                    <input type="radio" name="gender" id="female" value="female">
+                </label>
+                <label for="other">Other:
+                    <input type="radio" name="gender" id="other" value="other">
+                </label>
+            </fieldset>
+            <div id="gender-div" class="error"></div>
+            <fieldset id="interests">
+                <legend>Interests</legend>
+                <label for="sports">Sports:
+                    <input type="checkbox"  id="sports" name="sports">
+                </label>
+                <label for="video-games">Video Games:
+                    <input type="checkbox"  id="video-games" name="videogames">
+                </label>
+                <label for="music">Music:
+                    <input type="checkbox"  id="music" name="music">
+                </label>
+            </fieldset>
+            <div id="interests-div" class="error"></div>
+            <br>
+            <label for="bio">Bio:
+                <textarea name="bio" id="bio" cols="40" rows="4">Bio</textarea>
+            </label>
+            <div id="bio-div" class="error"></div>
+            <div><input type="submit"></div>
+            <div id="confirm-div" class="confirm"></div>
+            <button type="reset">Reset</button>
+        </form>
+    </main>
+    <footer>
+        <address> &copy; 2024 Carlos Rebelo</address>
+    </footer>
+</body>
+
+</html>

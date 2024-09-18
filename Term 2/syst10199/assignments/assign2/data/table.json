@@ -1,0 +1,64 @@
+[
+    {
+        "colourCode": "347",
+        "colourName": "Lemon Yellow",
+        "pigmentNumber": "PY53"
+    },
+    {
+        "colourCode": "502",
+        "colourName": "Permanent Rose",
+        "pigmentNumber": "PV19"
+    },
+    {
+        "colourCode": "733",
+        "colourName": "Wingnut Purple",
+        "pigmentNumber": "PV23"
+    },
+    {
+        "colourCode": "667",
+        "colourName": "Ultramarine",
+        "pigmentNumber": "PB29"
+    },
+    {
+        "colourCode": "137",
+        "colourName": "Cerulean Blue",
+        "pigmentNumber": "PB35"
+    },
+    {
+        "colourCode": "692",
+        "colourName": "Viridian",
+        "pigmentNumber": "PG18"
+    },
+    {
+        "colourCode": "503",
+        "colourName": "Permanent Sap Green",
+        "pigmentNumber": "PG36,PY110"
+    },
+    {
+        "colourCode": "744",
+        "colourName": "Yellow Ochre",
+        "pigmentNumber": "PY43"
+    },
+    {
+        "colourCode": "74",
+        "colourName": "Burnt Sienna",
+        "pigmentNumber": "PR101"
+    },
+    {
+        "colourCode": "465",
+        "colourName": "Paynes Grey",
+        "pigmentNumber": "PB15,PBk6,PV19"
+    },
+    {
+        "colourCode": "337",
+        "colourName": "Lamp Black",
+        "pigmentNumber": "PBk6/7"
+    },
+    {
+        "colourCode": "150",
+        "colourName": "Chinese White",
+        "pigmentNumber": "PW4"
+    }
+    
+    
+]

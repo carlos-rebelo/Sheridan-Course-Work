@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+      
+<head>
+  <meta charset="utf-8">
+  <title>Circle Index Page</title>
+  <meta name="author" content="Carlos Rebelo">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+  <header>
+    <h1>Circle Index Page</h1>
+    <h2>Measurements for Circle</h2>
+  </header>
+
+  <main>
+    <p>Radius: <%=radius%></p>
+    <p>Circumpherence: <%=(2*Math.PI*radius).toFixed(2)%></p>
+    <p>Area: <%=(Math.PI*radius**2).toFixed(2)%></p>
+  </main>
+
+  <footer>
+    <address>&copy; 2023 Carlos Rebelo</address>
+  </footer>
+</body>
+
+</html>

@@ -1,0 +1,609 @@
+!SESSION 2024-09-05 11:40:26.898 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data C:\Users\rebel\OneDrive\Desktop\Class\Term 3\Enterprise Java\Enterprise Workspace
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-05 11:40:28.430
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-05 11:40:29.289
+!MESSAGE Logback config file: C:\Users\rebel\OneDrive\Desktop\Class\Term 3\Enterprise Java\Enterprise Workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-05 11:40:33.618
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\rebel'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-09-05 11:46:08.533 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-05 11:46:12.358
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-05 11:46:43.481
+!MESSAGE Logback config file: C:\Users\rebel\OneDrive\Desktop\Class\Term 3\Enterprise Java\Enterprise Workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-05 11:46:51.085
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\rebel'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-09-05 12:07:34.164 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-05 12:07:36.044
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-05 12:07:41.727
+!MESSAGE Logback config file: C:\Users\rebel\OneDrive\Desktop\Class\Term 3\Enterprise Java\Enterprise Workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-05 12:07:46.776
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\rebel'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-09-05 12:08:31.547 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-05 12:08:34.495
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-05 12:09:31.956
+!MESSAGE Logback config file: C:\Users\rebel\OneDrive\Desktop\Class\Term 3\Enterprise Java\Enterprise Workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-05 12:09:36.743
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\rebel'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-09-05 12:12:05.580 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-05 12:12:09.434
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-05 12:12:15.642
+!MESSAGE Logback config file: C:\Users\rebel\OneDrive\Desktop\Class\Term 3\Enterprise Java\Enterprise Workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-09-05 12:12:16.502
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-09-05 12:12:16.502
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-09-05 12:12:16.967
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-09-05 12:12:16.967
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-05 12:12:20.560
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\rebel'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2024-09-05 12:13:47.485 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-05 12:13:51.415
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-05 12:13:56.708
+!MESSAGE Logback config file: C:\Users\rebel\OneDrive\Desktop\Class\Term 3\Enterprise Java\Enterprise Workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-09-05 12:13:57.844
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-09-05 12:13:57.844
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-09-05 12:13:58.411
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-09-05 12:13:58.411
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-05 12:14:02.033
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\rebel'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2024-09-05 12:14:05.065
+!MESSAGE EdgeDataDir: C:\Users\rebel\OneDrive\Desktop\Class\Term 3\Enterprise Java\Enterprise Workspace\.metadata\.plugins\com.genuitec.copilot4eclipse\edgedata
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-09-05 12:14:05.675
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-05 12:20:38.222
+!MESSAGE Classpath changed for project: A1Carlosrebelo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-05 12:20:38.223
+!MESSAGE Boot project ADDED: A1Carlosrebelo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-05 12:20:38.223
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-05 12:20:38.224
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-09-05 12:20:38.239
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\rebel\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_22.0.2.v20240802-1626\jre\bin\javaw.exe
+-cp
+C:\Users\rebel\eclipse\jee-2024-06\eclipse\..\..\..\.p2\pool\plugins\org.springframework.tooling.boot.ls_1.56.0.202407191456\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\rebel\eclipse\jee-2024-06\eclipse\..\..\..\.p2\pool\plugins\org.springframework.tooling.boot.ls_1.56.0.202407191456\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\rebel\eclipse\jee-2024-06\eclipse\..\..\..\.p2\pool\plugins\org.springframework.tooling.boot.ls_1.56.0.202407191456\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=C:/Users/rebel/OneDrive/Desktop/Class/Term 3/Enterprise Java/Enterprise Workspace/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1725553238239
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-05 12:20:38.240
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-09-05 12:20:38.247
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 4720
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-05 12:20:38.632
+!MESSAGE Classpath changed for project: A1Carlosrebelo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-05 12:20:40.114
+!MESSAGE Classpath changed for project: A1Carlosrebelo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-05 12:20:44.664
+!MESSAGE Classpath changed for project: A1Carlosrebelo
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2024-09-05 12:32:19.079
+!MESSAGE Jetty server started: true uri: http://10.16.34.51:64056/chat
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2024-09-05 12:32:19.262
+!MESSAGE Persistence: n/a
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2024-09-05 12:32:24.271
+!MESSAGE Workspace labels: java,maven
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2024-09-05 12:48:46.331
+!MESSAGE Jetty server stopped: Server@103fc5f6{STOPPED}[10.0.20,sto=0]
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2024-09-05 12:48:46.332
+!MESSAGE Jetty server stopped: true
+!SESSION 2024-09-09 09:20:46.521 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-09 09:20:49.192
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-09 09:21:01.057
+!MESSAGE Logback config file: C:\Users\rebel\OneDrive\Desktop\Class\Term 3\Enterprise Java\Enterprise Workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-09-09 09:21:02.010
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-09-09 09:21:02.010
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-09-09 09:21:02.553
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-09-09 09:21:02.553
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-09-09 09:21:06.294
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\rebel\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_22.0.2.v20240802-1626\jre\bin\javaw.exe
+-cp
+C:\Users\rebel\eclipse\jee-2024-06\eclipse\..\..\..\.p2\pool\plugins\org.springframework.tooling.boot.ls_1.56.0.202407191456\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\rebel\eclipse\jee-2024-06\eclipse\..\..\..\.p2\pool\plugins\org.springframework.tooling.boot.ls_1.56.0.202407191456\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\rebel\eclipse\jee-2024-06\eclipse\..\..\..\.p2\pool\plugins\org.springframework.tooling.boot.ls_1.56.0.202407191456\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=C:/Users/rebel/OneDrive/Desktop/Class/Term 3/Enterprise Java/Enterprise Workspace/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1725888066294
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-09 09:21:06.295
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-09-09 09:21:06.309
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 10644
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-09 09:21:08.427
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\rebel'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-09 09:21:08.444
+!MESSAGE Boot project ADDED: A1Carlosrebelo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-09 09:21:08.445
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-09 09:21:08.448
+!MESSAGE Started Boot LS process
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2024-09-09 09:21:09.818
+!MESSAGE EdgeDataDir: C:\Users\rebel\OneDrive\Desktop\Class\Term 3\Enterprise Java\Enterprise Workspace\.metadata\.plugins\com.genuitec.copilot4eclipse\edgedata
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-09-09 09:21:11.793
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-09 09:24:13.202
+!MESSAGE Classpath changed for project: lec21_springBootIntro
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-09 09:24:13.203
+!MESSAGE Boot project ADDED: lec21_springBootIntro
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2024-09-09 09:29:55.610
+!MESSAGE Jetty server started: true uri: http://10.16.34.51:56894/chat
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2024-09-09 09:29:55.756
+!MESSAGE Persistence: n/a
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2024-09-09 09:30:00.775
+!MESSAGE Workspace labels: java,maven
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-09 10:16:18.249
+!MESSAGE Classpath changed for project: ex21
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-09 10:16:18.250
+!MESSAGE Boot project ADDED: ex21
+
+!ENTRY org.eclipse.ui 4 0 2024-09-09 11:14:49.152
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException: Cannot invoke "org.springsource.ide.eclipse.commons.ui.launch.LaunchList.getLast()" because "this.launches" is null
+	at org.springsource.ide.eclipse.commons.ui.launch.AbstractLaunchToolbarPulldown.update(AbstractLaunchToolbarPulldown.java:112)
+	at org.springsource.ide.eclipse.commons.ui.launch.AbstractLaunchToolbarPulldown$3.run(AbstractLaunchToolbarPulldown.java:134)
+	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:40)
+	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:132)
+	at org.eclipse.swt.widgets.Display.runAsyncMessages(Display.java:4058)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3676)
+	at org.eclipse.swt.widgets.Display.release(Display.java:3751)
+	at org.eclipse.swt.graphics.Device.dispose(Device.java:335)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3279)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(Native Method)
+	at org.eclipse.swt.widgets.Shell.open(Shell.java:1324)
+	at org.eclipse.jface.window.Window.open(Window.java:795)
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog.open(ProgressMonitorDialog.java:632)
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog.aboutToRun(ProgressMonitorDialog.java:541)
+	at org.eclipse.jface.dialogs.ProgressMonitorDialog.run(ProgressMonitorDialog.java:467)
+	at org.eclipse.ui.internal.progress.ProgressMonitorJobsDialog.run(ProgressMonitorJobsDialog.java:230)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor.disconnectFromWorkspace(IDEWorkbenchAdvisor.java:559)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor$2.run(IDEWorkbenchAdvisor.java:366)
+	at org.eclipse.ui.internal.ide.application.IDEWorkbenchAdvisor.postShutdown(IDEWorkbenchAdvisor.java:387)
+	at org.eclipse.ui.internal.Workbench.shutdown(Workbench.java:2981)
+	at org.eclipse.ui.internal.Workbench.busyClose(Workbench.java:1141)
+	at org.eclipse.ui.internal.Workbench.lambda$4(Workbench.java:1409)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:67)
+	at org.eclipse.ui.internal.Workbench.close(Workbench.java:1409)
+	at org.eclipse.ui.internal.Workbench.close(Workbench.java:1385)
+	at org.eclipse.ui.internal.Workbench.lambda$16(Workbench.java:2783)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:91)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4285)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4277)
+	at org.eclipse.swt.widgets.Display.messageProc(Display.java:3285)
+	at org.eclipse.swt.internal.win32.OS.DefWindowProc(Native Method)
+	at org.eclipse.swt.widgets.Shell.callWindowProc(Shell.java:522)
+	at org.eclipse.swt.widgets.Control.windowProc(Control.java:4813)
+	at org.eclipse.swt.widgets.Canvas.windowProc(Canvas.java:340)
+	at org.eclipse.swt.widgets.Decorations.windowProc(Decorations.java:1482)
+	at org.eclipse.swt.widgets.Shell.windowProc(Shell.java:2319)
+	at org.eclipse.swt.widgets.Display.windowProc(Display.java:5050)
+	at org.eclipse.swt.internal.win32.OS.PeekMessage(Native Method)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3668)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1151)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1042)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:152)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:639)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:339)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:546)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:173)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:152)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:208)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:143)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:109)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:439)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:271)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:668)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:605)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1481)
+!SESSION 2024-09-12 11:11:20.758 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-12 11:11:24.717
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY org.eclipse.core.resources 2 10035 2024-09-12 11:11:29.183
+!MESSAGE The workspace exited with unsaved changes in the previous session; refreshing workspace to recover changes.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-12 11:11:30.227
+!MESSAGE Logback config file: C:\Users\rebel\OneDrive\Desktop\Class\Term 3\Enterprise Java\Enterprise Workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-09-12 11:11:31.174
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-09-12 11:11:31.175
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-09-12 11:11:31.703
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-09-12 11:11:31.703
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-12 11:11:36.810
+!MESSAGE Boot project ADDED: A1Carlosrebelo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-12 11:11:36.814
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-12 11:11:36.815
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\rebel'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-12 11:11:36.817
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-12 11:11:36.818
+!MESSAGE Boot project ADDED: ex21
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-12 11:11:36.819
+!MESSAGE Boot project ADDED: lec21_springBootIntro
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-09-12 11:11:36.861
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\rebel\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_22.0.2.v20240802-1626\jre\bin\javaw.exe
+-cp
+C:\Users\rebel\eclipse\jee-2024-06\eclipse\..\..\..\.p2\pool\plugins\org.springframework.tooling.boot.ls_1.56.0.202407191456\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\rebel\eclipse\jee-2024-06\eclipse\..\..\..\.p2\pool\plugins\org.springframework.tooling.boot.ls_1.56.0.202407191456\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\rebel\eclipse\jee-2024-06\eclipse\..\..\..\.p2\pool\plugins\org.springframework.tooling.boot.ls_1.56.0.202407191456\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=C:/Users/rebel/OneDrive/Desktop/Class/Term 3/Enterprise Java/Enterprise Workspace/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1726153896860
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-12 11:11:36.862
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-09-12 11:11:36.874
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 24208
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2024-09-12 11:11:38.286
+!MESSAGE EdgeDataDir: C:\Users\rebel\OneDrive\Desktop\Class\Term 3\Enterprise Java\Enterprise Workspace\.metadata\.plugins\com.genuitec.copilot4eclipse\edgedata
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-09-12 11:11:40.271
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-12 11:14:00.456
+!MESSAGE Classpath changed for project: lec22
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-12 11:14:00.457
+!MESSAGE Boot project ADDED: lec22
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-12 11:14:01.273
+!MESSAGE Classpath changed for project: lec22
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2024-09-12 11:14:28.730
+!MESSAGE Persistence: n/a
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2024-09-12 11:14:29.025
+!MESSAGE Jetty server started: true uri: http://10.16.34.113:56648/chat
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2024-09-12 11:14:33.741
+!MESSAGE Workspace labels: java,maven
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-09-12 11:56:21.919
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:65)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY org.eclipse.jdt.core.manipulation 4 10001 2024-09-12 12:11:11.338
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Error in Java Model (code 969): formPost(String, String, String, Strin, Long) [in HomeController [in [Working copy] HomeController.java [in ca.sheridancollege.rebeloca.controllers [in src/main/java [in lec22]]]]] does not exist
+	at org.eclipse.jdt.internal.core.JavaElement.newNotPresentException(JavaElement.java:562)
+	at org.eclipse.jdt.internal.core.JavaElement.openWhenClosed(JavaElement.java:605)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:308)
+	at org.eclipse.jdt.internal.core.JavaElement.getElementInfo(JavaElement.java:294)
+	at org.eclipse.jdt.internal.core.SourceRefElement.getSourceRange(SourceRefElement.java:259)
+	at org.eclipse.jdt.internal.core.Member.getJavadocRange(Member.java:319)
+	at org.eclipse.jdt.core.manipulation.internal.javadoc.CoreJavadocAccess.getHTMLContentFromSource(CoreJavadocAccess.java:356)
+	at org.eclipse.jdt.core.manipulation.internal.javadoc.CoreJavadocAccess.getHTMLContent(CoreJavadocAccess.java:230)
+	at org.eclipse.jdt.internal.ui.text.javadoc.JavadocContentAccess2.getHTMLContent(JavadocContentAccess2.java:49)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo(JavadocHover.java:799)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.internalGetHoverInfo(JavadocHover.java:717)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavadocHover.getHoverInfo2(JavadocHover.java:709)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.lambda$0(LSJavaHoverProvider.java:63)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1804)
+	at java.base/java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1796)
+	at java.base/java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:507)
+	at java.base/java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1489)
+	at java.base/java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:2071)
+	at java.base/java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:2033)
+	at java.base/java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:187)
+!SUBENTRY 1 org.eclipse.jdt.core 4 969 2024-09-12 12:11:11.339
+!MESSAGE formPost(String, String, String, Strin, Long) [in HomeController [in [Working copy] HomeController.java [in ca.sheridancollege.rebeloca.controllers [in src/main/java [in lec22]]]]] does not exist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-12 12:28:34.780
+!MESSAGE Classpath changed for project: ex22_requestParams
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-12 12:28:34.781
+!MESSAGE Boot project ADDED: ex22_requestParams
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2024-09-12 13:00:30.086
+!MESSAGE Jetty server stopped: Server@5a5f3a94{STOPPED}[10.0.20,sto=0]
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2024-09-12 13:00:30.088
+!MESSAGE Jetty server stopped: true
+!SESSION 2024-09-16 09:26:56.813 -----------------------------------------------
+eclipse.buildId=4.32.0.20240606-1231
+java.version=22.0.2
+java.vendor=Eclipse Adoptium
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_CA
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-16 09:26:59.394
+!MESSAGE Activated before the state location was initialized. Retry after the state location is initialized.
+
+!ENTRY ch.qos.logback.classic 1 0 2024-09-16 09:27:04.164
+!MESSAGE Logback config file: C:\Users\rebel\OneDrive\Desktop\Class\Term 3\Enterprise Java\Enterprise Workspace\.metadata\.plugins\org.eclipse.m2e.logback\logback.2.6.1.20240411-1122.xml
+
+!ENTRY org.eclipse.ui 2 0 2024-09-16 09:27:05.202
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-09-16 09:27:05.202
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.ui 2 0 2024-09-16 09:27:05.691
+!MESSAGE Warnings while parsing the commands from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.actionDefinitions' extension points.
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-09-16 09:27:05.691
+!MESSAGE Commands should really have a category: plug-in='org.springframework.tooling.boot.ls', id='spring.initializr.addStarters', categoryId='org.eclipse.lsp4e.commandCategory'
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-09-16 09:27:10.395
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\rebel'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-16 09:27:10.533
+!MESSAGE Boot project ADDED: A1Carlosrebelo
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-16 09:27:10.534
+!MESSAGE Starting Boot LS...
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-16 09:27:10.537
+!MESSAGE Started Boot LS process
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-16 09:27:10.541
+!MESSAGE Boot project ADDED: ex21
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-16 09:27:10.545
+!MESSAGE Boot project ADDED: ex22_requestParams
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-16 09:27:10.551
+!MESSAGE Boot project ADDED: lec21_springBootIntro
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-16 09:27:10.555
+!MESSAGE Boot project ADDED: lec22
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-09-16 09:27:10.574
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\rebel\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_22.0.2.v20240802-1626\jre\bin\javaw.exe
+-cp
+C:\Users\rebel\eclipse\jee-2024-06\eclipse\..\..\..\.p2\pool\plugins\org.springframework.tooling.boot.ls_1.56.0.202407191456\servers\spring-boot-language-server\BOOT-INF\classes;C:\Users\rebel\eclipse\jee-2024-06\eclipse\..\..\..\.p2\pool\plugins\org.springframework.tooling.boot.ls_1.56.0.202407191456\servers\spring-boot-language-server\BOOT-INF\lib\*
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Xlog:jni+resolve=off
+-Dspring.config.location=file:C:\Users\rebel\eclipse\jee-2024-06\eclipse\..\..\..\.p2\pool\plugins\org.springframework.tooling.boot.ls_1.56.0.202407191456\servers\spring-boot-language-server\BOOT-INF\classes\application.properties
+-XX:ErrorFile=C:/Users/rebel/OneDrive/Desktop/Class/Term 3/Enterprise Java/Enterprise Workspace/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1726493230573
+org.springframework.ide.vscode.boot.app.BootLanguageServerBootApp
+--languageserver.hover-timeout=225
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-16 09:27:10.575
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-09-16 09:27:10.586
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 40832
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2024-09-16 09:27:11.963
+!MESSAGE EdgeDataDir: C:\Users\rebel\OneDrive\Desktop\Class\Term 3\Enterprise Java\Enterprise Workspace\.metadata\.plugins\com.genuitec.copilot4eclipse\edgedata
+
+!ENTRY com.genuitec.copilot4eclipse 2 0 2024-09-16 09:27:13.943
+!MESSAGE Timeout while checking Copilot status
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-16 09:29:50.445
+!MESSAGE Classpath changed for project: lec31-DependencyInjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-16 09:29:50.446
+!MESSAGE Boot project ADDED: lec31-DependencyInjection
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-16 09:29:51.192
+!MESSAGE Classpath changed for project: lec31-DependencyInjection
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2024-09-16 09:30:38.511
+!MESSAGE Jetty server started: true uri: http://10.16.32.234:51983/chat
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2024-09-16 09:30:38.641
+!MESSAGE Persistence: n/a
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2024-09-16 09:30:43.655
+!MESSAGE Workspace labels: java,maven
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-16 09:53:55.613
+!MESSAGE Classpath changed for project: ex31_injectionAndRepositories
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-09-16 09:53:55.614
+!MESSAGE Boot project ADDED: ex31_injectionAndRepositories
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2024-09-16 11:00:50.633
+!MESSAGE Jetty server stopped: Server@5db64b14{STOPPED}[10.0.20,sto=0]
+
+!ENTRY com.genuitec.copilot4eclipse.chat 1 0 2024-09-16 11:00:50.634
+!MESSAGE Jetty server stopped: true

@@ -1,0 +1,29 @@
+package ca.sheridancollege.rebeloca.controllers;
+
+import java.time.LocalDate;
+
+import org.springframework.format.annotation.DateTimeFormat;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import ca.sheridancollege.rebeloca.beans.Student;
+/*@Controller allows this class to receive HTTP requests*/
+@Controller
+public class HomeController {
+	
+	@GetMapping("/")
+	public String goHome(Model model) {
+		return "index";
+	}
+	
+	@PostMapping("/formPost")
+	public String formPost(@RequestParam String firstName, @RequestParam String lastName, @RequestParam String email, @RequestParam(birthday)@DateTimeFormat(iso=DateTimeFormat.ISO.DATE) LocalDate date, @RequestParam Long studentNumber) {
+		
+		Student s1 = new Student(firstName, lastName, email, studentNumber, date);
+		System.out.println(s1);
+		
+		return "working";
+	}
+}

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Week 9</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content="Carlos Rebelo">
+        <script src="scripts/main.js"></script>
+        <link rel="stylesheet" href="css/main.css">
+    </head>
+    <body>
+        <header>
+            <h1 id="h1">Week 9 Practice</h1>
+        </header>
+        <main>
+            <form name="demoform">
+                <fieldset>
+                   <div>
+                    <label for="name">Name:
+                        <input type="text" id="name" name="username">
+                    </label>
+                    </div>
+                  <div>
+                    <label for="term">Term#:
+                        <input type="number" min="1" max="9" value="1" id="term" name="termnum">
+                    </label>
+                   </div>
+                </fieldset>
+                <div><label for="pet">Favourite Pet:<br>
+                        <select id="pet" name="animal" size="5">
+                            <option value="1">Bird</option>
+                            <option value="2">Cat</option>
+                            <option value="3">Dog</option>
+                            <option value="4">Fish</option>
+                            <option value="5">Other</option>
+                        </select>
+                    </label>
+                    <label for="goodpets">
+                        <input type="checkbox" id="goodpets" name="petsrgood"
+                            value="true">Pets are good for mental health.
+                    </label>
+                </div>
+                <fieldset>
+                    <legend>What's in your pocket?</legend>
+                    <label for="money">
+                        <input type="radio" id="money" name="pocket" value="money">Money
+                    </label>
+                    <label for="nothing">
+                        <input type="radio" id="nothing" name="pocket" value="nothing">Nothing
+                    </label>
+                    <label for="nopocket">
+                        <input type="radio" id="nopocket" name="pocket" value="no pockets">No Pockets
+                    </label>
+                </fieldset>
+                <div><input type="submit"></div>
+            </form>
+        </main>
+        <footer>
+            <address> &copy; 2024 Carlos Rebelo</address>
+        </footer>
+    </body>
+</html>

@@ -1,0 +1,14 @@
+package ca.sheridancollege.rebeloca.controller;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+/*@Controller allows this class to receive HTTP requests*/
+@Controller
+public class HomeController {
+	
+	@GetMapping("/")
+	public String goHome(Model model) {
+		return "index";
+	}
+}

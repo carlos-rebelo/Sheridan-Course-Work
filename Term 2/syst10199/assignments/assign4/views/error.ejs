@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+      
+<head>
+  <meta charset="utf-8">
+  <title>Calculator Error Page</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body {
+    margin: 25px;
+    background-color: rgb(52, 46, 46);
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    color: chocolate;
+  }
+  
+  /* Applies to all <h1>...</h1> elements. */
+  h1 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 5px;
+  }
+  p {
+    font-size: 1.5rem;
+    margin: 1.3rem;
+  }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Error </h1>
+  </header>
+
+  <main>
+    <p>Please refer to the instructions in the readme file. The url should be 
+        http://localhost:3000/operation/num1/num2 where operation is either: 
+        add, subtract, divide, or multiply, and num1 and num2 are the numbers 
+        you want to calculate. The url you entered is http://localhost:3000
+        <%=url%></p>
+  </main>
+
+  <footer>
+    <address>&copy; 2024 Carlos Rebelo</address>
+  </footer>
+</body>
+
+</html>

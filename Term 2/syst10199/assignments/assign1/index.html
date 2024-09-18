@@ -1,0 +1,144 @@
+<!--
+Name:  Carlos Rebelo
+Assignment:  Assignment 1
+Date:  January 28th, 2024
+
+App Description: An application which allows you to fill out a form and give
+ratings for Wingnut Watercolour supplies
+Page Description: Main page for this site, contains form for user to fill
+Files: index.html (main web page) main.css (main styling sheet)
+-->
+<!DOCTYPE html>
+<html lang="en">
+
+    <head> <!--Assigning page title, characters used and author name-->
+        <meta charset="utf-8"> 
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content="Carlos Rebelo">
+        <title>Wingnut Watercolours</title> 
+        <!--Importing stylesheet provided by proffessor-->
+        <link rel="stylesheet" href="https://jollymor.dev.fast.sheridanc.on.ca/res/css/w2_a1w24main.css">
+        <link rel="stylesheet" href="styles/main.css">  
+    </head>
+
+    <body> <!--Contents of page to be displayed-->
+        <header>
+            <h1>Wingnut Watercolours</h1>
+            <h2>Rate our Products</h2>
+        </header>
+        <!--Creating form container-->
+        <form name="inputFields">
+            <!--Creating field for email address-->
+            <div>
+                <label for="email">Email Address:
+                    <input type="email" id="email" name="emailAddr" required>
+                </label>
+            </div>
+            <!--Creating fieldset container-->
+            <fieldset>
+                <!--Creating legend and radio buttons for store location-->
+                <legend>Purchase Location</legend>
+                <label for="milton">
+                    <input type="radio" id="milton" name="location" 
+                    aria-describedby="desc-location" checked>Milton
+                </label>
+            
+                <label for="oakville">
+                    <input type="radio" id="oakville" name="location" 
+                    aria-describedby="desc-location">Oakville
+                </label>
+            
+                <label for="waterdown">
+                    <input type="radio" id="waterdown" name="location" 
+                    aria-describedby="desc-location">Waterdown
+                </label>
+            </fieldset>
+            <!--Describing radio buttons-->
+            <div id="desc-location">
+                For multiple purchase locations, just choose the one you
+                purchase from most frequently.
+            </div>
+            <!--Creating table and caption for table-->
+            <table>
+                <caption>Rate Products</caption>
+                <!--Creating table headers-->
+                <tr>
+                    <th>Product</th>
+                    <th id="label-purchased">Number Purchased</th>
+                    <th id="label-rating">Overall Rating</th>
+                </tr>
+                <tr>
+                    <th id="label-pencil">Watercolour Pencils</th>
+                    <!--Creating fields for # purchased and ratings-->
+                    <td>
+                        <div>
+                        <input type="number"  min="0" value="0" 
+                        id="pencil-purchased" name="pencils" 
+                        aria-labelledby="label-pencil label-purchased" 
+                        required>
+                        </div>
+                    </td>
+                    <td>
+                        <div>
+                        <input type="number"  min="0" max="5" value="5" 
+                        id="pencil-rate" name="pencilRate" 
+                        aria-labelledby="label-pencil label-rating"
+                        aria-describedby="desc-rating">
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <th id="label-half-pans">Watercolour Half-Pans</th>
+                    <td>
+                        <div>
+                        <input type="number"  min="0" value="0" 
+                        id="pans-purchased" name="half-pans" 
+                        aria-labelledby="label-half-pans label-purchased" 
+                        required>
+                        </div>
+                    </td>
+                    <td>
+                        <div>
+                        <input type="number"  min="0" max="5" value="5" 
+                        id="pans-rate" name="pansRate" 
+                        aria-labelledby="label-half-pans label-rating"
+                        aria-describedby="desc-rating">
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <th id="label-tubes">Watercolour Tubes</th>
+                    <td>
+                        <div>
+                        <input type="number"  min="0" value="0" 
+                        id="tubes-purchased" name="tubes" 
+                        aria-labelledby="label-tubes label-purchased" required>
+                        </div>
+                    </td>
+                    <td>
+                        <div>
+                        <input type="number"  min="0" max="5" value="5" 
+                        id="tubes-rate" name="tubesRate" 
+                        aria-labelledby="label-tubes label-rating" 
+                        aria-describedby="desc-rating">
+                        </div>
+                    </td>
+                </tr>
+            </table>
+            <!--Describing ratings-->
+            <div id="desc-rating">
+                (5 is excellent, 1 is poor)
+            </div>
+            <!--Creating submit button-->
+            <div>
+                <button type="submit">Submit Ratings</button>
+            </div>
+        </form>
+
+        <footer>
+            &copy; 2024 Carlos Rebelo
+        </footer>
+                  
+    </body>
+
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Week 9</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content="Carlos Rebelo">
+        <script src="scripts/main.js"></script>
+        <link rel="stylesheet" href="css/main.css">
+    </head>
+    <body>
+        <header>
+            <h1 id="h1">In-Class 3</h1>
+        </header>
+        <main>
+            <form name="demoform">
+                <fieldset>
+                  <label for="name">Name:
+                    <input type="text" id="name" name="username" >
+                  </label>
+                  <div class="error" id="name-div"></div>
+                  <label for="email">Email:
+                    <input type="email" id="email" name="email" required>
+                  </label>
+                  <br>
+                  <label for="pass">Password:
+                    <input type="password" name="pword" id="pass" required>
+                  </label>
+                  <div id="pass-div" class="error"></div>
+                  <label for="pass-confirm">Confirm Password:
+                    <input type="password" name="pwordConfirm" id="pass-confirm" required>
+                  </label>
+                  <div id="passConfirm-div" class="error"></div>
+                  <label for="age">Age:
+                    <input type="number" value="18"
+                           required id="age" name="agenum">
+                   </label>
+                   <div id="age-div" class="error"></div>
+                   <label for="tos">Terms of Service:
+                    <input type="checkbox" 
+                           required id="tos" name="tos">
+                   </label>
+                   
+                </fieldset>
+                <div id="confirm-div" class="confirm"></div>
+                
+              
+                <div><input type="submit"></div>
+              </form>
+        </main>
+        <footer>
+            <address> &copy; 2024 Carlos Rebelo</address>
+        </footer>
+    </body>
+</html>

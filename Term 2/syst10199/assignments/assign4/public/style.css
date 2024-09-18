@@ -1,0 +1,33 @@
+/* Applies to the entire body of the HTML document (except where overridden by more specific
+selectors). */
+body {
+    margin: 25px;
+    background-color: rgb(52, 46, 46);
+    font-family: arial, sans-serif;
+    font-size: 14px;
+    color: chocolate;
+  }
+  
+  /* Applies to all <h1>...</h1> elements. */
+  h1 {
+    font-size: 35px;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 5px;
+  }
+  p {
+    font-size: 100px;
+    margin: 1.3rem;
+  }
+  p:first-of-type {
+    border-bottom: 0.2rem dashed black;
+    padding-bottom: 1.3rem;
+  }
+div:first-of-type {
+    display: inline-block;
+    border-width: 0.2rem;
+    border-style: dashed;
+    border-color: black;
+    margin-bottom: 1.2rem;
+}
+  

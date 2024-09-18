@@ -1,0 +1,11 @@
+.error { 
+    color: red;
+    margin: 0.2rem;
+  }
+.hide {
+    visibility: hidden;
+  }
+.confirm {
+    color: green;
+    margin: 0.2rem;
+  }

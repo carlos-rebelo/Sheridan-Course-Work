@@ -1,0 +1,29 @@
+package ca.sheridancollege.rebeloca.controllers;
+
+import java.time.LocalDate;
+import java.time.LocalTime;
+
+import org.springframework.format.annotation.DateTimeFormat;
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import ca.sheridancollege.rebeloca.beans.ContestRegistration;
+
+@Controller
+public class HomeController {
+	
+	@GetMapping("/")
+	public String goHome(Model model) {
+		return "index";
+	}
+	@PostMapping("/formPost")
+	public String formPost(@RequestParam String firstName, @RequestParam String email, 
+			@RequestParam("contestDate")@DateTimeFormat(iso=DateTimeFormat.ISO.DATE) LocalDate contestDate, 
+			@RequestParam("contestTime")@DateTimeFormat(iso=DateTimeFormat.ISO.TIME) LocalTime contestTime) {
+		ContestRegistration c1 = new ContestRegistration(firstName, email, contestDate, contestTime);
+		System.out.println(c1);
+		return "working";
+	}
+}

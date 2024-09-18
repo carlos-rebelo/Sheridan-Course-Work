@@ -1,0 +1,21 @@
+package ca.sheridancollege.rebeloca.controllers;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.ui.Model;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+/*@Controller allows this class to receive HTTP requests*/
+@Controller
+public class HomeController {
+	
+	@GetMapping("/")
+	public String goHome(Model model) {
+		return "index";
+	}
+	
+	@PostMapping("/formPost")
+	public String formPost(@RequestParam String firstName, @RequestParam String lastName) {
+		return "working";
+	}
+}

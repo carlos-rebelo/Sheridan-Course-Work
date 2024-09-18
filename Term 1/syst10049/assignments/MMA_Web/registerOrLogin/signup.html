@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="eng">
+    <head>
+        <meta charset="utf-8">
+        <title>Week 3 Practice</title>
+        <meta name="author" content="Carlos Rebelo">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="https://jollymor.dev.fast.sheridanc.on.ca/res/css/w2_a1w24main.css">
+        <link rel="stylesheet" href="styles/main.css">
+    </head>
+    <body>
+        <header>
+
+            <h1>MMA Manic</h1>
+            
+            <a id="signup" href="registerOrLogin/signup.html">Make an Account</a>
+            
+            <nav>
+              <a href="https://www.ufc.com">UFC</a>
+              <a href="https://www.bloodyelbow.com">Bloody Elbow</a>
+              <a href="https://www.mmafighting.com">MMA Fighting</a>
+              <a href="https://mmajunkie.usatoday.com">MMA Junkie</a>
+              </ul>
+            </nav>
+          </header>
+        <form name="lb-ratings">
+            <div>
+                <label for="username">Username:
+                    <input name="userName" id="username" maxlength="15" 
+                    minlength="4" required aria-describedby="usrname-desc">
+                </label>
+                <ul>
+                    <li id="usrname-desc">Username must be between 6 and 15 
+                        characters
+                    </li>
+                </ul>
+                <p id="usrname-desc">Username must be between 6 and 15 
+                    characters</p>
+            </div>
+            <div>
+                <label for="password">Password:
+                    <input type="password" name="passWord" id="password" 
+                    required minlength="6" maxlength="15" 
+                    aria-describedby="psswrd-desc">
+                </label>
+                <ul>
+                    <li id="psswrd-desc">Password must be between 6 and 15 
+                        characters
+                    </li>
+                </ul>
+            </div>
+            <div>
+                <label for="agreeTOS">I have read and agreed with the Terms of 
+                    Service
+                    <input type="checkbox" name="acceptTOS" id="agreeTOS" 
+                    required>
+                </label>
+            </div>
+            <div>
+                <label for="userMail">Email:
+                    <input type="email" name="userEmail" id="userMail" 
+                    title="Enter your email address." autocomplete="email" 
+                    required>
+                </label>
+            </div>
+            <fieldset>
+                <legend>Store Location</legend>
+                <label for="Milton">Milton
+                    <input type="radio" name="userLocation" id="Milton" 
+                    checked aria-describedby="location-desc">
+                </label>
+                <label for="Oakville">Oakville
+                    <input type="radio" name="userLocation" id="Oakville"
+                    aria-describedby="location-desc">
+                </label>
+                <label for="Brampton">Brampton
+                    <input type="radio" name="userLocation" id="Brampton"
+                    aria-describedby="location-desc">
+                </label>
+            </fieldset>
+            <p id="location-desc">If you shop at multiple locations, please 
+                select the store you visit most frequently</p>
+            <button>Submit</button>
+        </form>
+        <footer>
+            <address>&copy;2024 Carlos Rebelo
+                <a href="mailto:rebeloc878@gmail.com">rebeloc878@gmail.com</a>
+            </address>
+        </footer>
+    </body>
+</html>

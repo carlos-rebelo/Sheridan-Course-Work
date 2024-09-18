@@ -1,0 +1,231 @@
+/*
+Name:  Carlos Rebelo
+Assignment:  Assignment 4
+Description: Used in main page for website called "Free JavaScript Games"
+*/
+
+/*Styling all text in body*/
+img {
+    height: auto;
+    width: 100%;
+}
+body {
+    background-color:#29282b;
+    color: white;
+    font-family: "Helvetica", Arial, sans-serif;
+    font-size: 20px;
+}
+/*Styling header background color, border and margin*/
+header {
+    background-color: #ab1623;
+    border: 0.2em solid #0834ad;
+    margin: 0.2em;
+    display: grid;
+    grid-template-areas: "h1 signup"
+                         "nav nav";
+}
+/*Styling div background color and centering content*/
+div {
+    background-image: radial-gradient(black, darkred, gray);
+    text-align: center;
+}
+/*Styling div which is first of its type to have top margin*/
+div:first-of-type {
+    margin-top: 0.1em;
+}
+/*Styling all divs that are descendants of a div*/
+div div {
+    margin-bottom: 0.5em;
+}
+/*Styling footer background color, border, and padding*/
+footer {
+    background-color: #ab1623;
+    border: 0.2em solid #0834ad;
+    padding: 0.3em;
+}
+
+/*Styling a elements which are descendants of footer to be a different color*/
+footer a {
+    color: #c8f5fc;
+}
+
+
+/*Styling divs that are direct children of main*/
+main>div {
+    border: 0.2em solid #0834ad;
+    margin: 1em 0.4em;
+    
+}
+/*Styling main element's background color, margin, and padding*/
+main {
+    background-image: radial-gradient(black, gray, rgb(140, 19, 19));
+    margin-bottom: 0.5em;
+    margin-top: 0.5em;
+    padding-bottom: 1.2em;
+    padding-top: 0.2em;
+}
+/*Styling all h1 elements to have a left margin*/
+h1 {
+    margin-left: 0.2em;
+    grid-area: h1;
+}
+/*Styling all navs background color, margin, and padding*/
+nav {
+    display: grid;
+    background-color: #0834ad;
+    margin: 0.35em;
+    padding: 0.1em;
+}
+/*Styling all a elements which are direct children of nav*/
+nav>a {
+    color: white;
+    font-weight: bold;
+    margin: 0.7em;
+    padding: 0.1em 0.1em;
+    transition-duration: 0.5s;
+    text-decoration: none;
+}
+div a {
+    color: white;
+}
+/*Styling nav that is next sibling of h1*/
+h1+nav {
+    background-image: linear-gradient(black,#0834ad);
+    grid-area: nav;
+}
+/*Styling a elements which are children of a nav that is next sibling of h1*/
+
+/*Styling hover for a elements that are children of a nav that is next sibling 
+of h1*/
+h1+nav>a:hover {
+    color: white;
+}
+h1 + a {
+    justify-self: right;
+    align-self: center;
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 1.05em;
+    margin-right: 1.5em;
+    margin-top: 1.5em;
+    font-size: 0.8em;
+    grid-area: signup;
+    transition-duration: 0.5s;
+    
+}
+h1 + a:hover {
+    background-color: #0834ad;
+    text-decoration: underline;
+    
+}
+/*Styling hover for a elements which are direct children of nav*/
+nav>a:hover {
+    background-color: #ab1623;
+    padding: 0.1em 0.1em;
+    
+}
+div + nav {
+    background-image: linear-gradient(black,#0834ad);
+}
+div + nav:nth-of-type(2) {
+    background-image: linear-gradient(black,#0834ad);
+}
+div + nav:nth-of-type(3) {
+    background-image: linear-gradient(black,#0834ad);
+}
+div + nav:nth-of-type(4) {
+    background-image: linear-gradient(black,#0834ad);
+}
+/*Adding media query to overwrite styles when screen width is 480px or over*/
+@media screen and (min-width:480px) {
+    main > nav {
+        /*Changing display of navs which are direct children of main to block*/
+        display: block;
+        
+    }
+    main > nav > a {
+                /*Changing display of a elements which are children of navs 
+                which are direct children of main to inline-block*/
+        display: inline-block;
+        padding: 0.1em;
+    }
+}
+/*Adding media query to overwrite styles when screen width is 1024px or over*/
+@media screen and (min-width: 1075px) {
+    img {
+        height: 500px;
+        width: 500px;
+        size-adjust: auto;
+    }
+    main {
+        /*Changing display of main to grid*/
+        display: grid;
+        /*Assigning grid-template-areas*/
+        grid-template-areas: "nav nav"
+                            "div1 div2"
+                            "nav1 nav2"
+                            "div3 div4"
+                            "nav3 nav4";
+        /*Adjusting grid-template-columns*/
+        grid-template-columns: auto auto;
+        /*Adjusting grid-template-rows*/
+        grid-template-rows: auto auto auto;
+        
+    }
+    
+    header > nav {
+        /*Changing display of nav which are children of header to block*/
+        display: block;
+        padding: 0.5em;
+    }
+    main > nav {
+        /*Changing display of navs that are children of main to inline*/
+        display: inline;
+        /*Assigning grid-area*/
+        grid-area: nav;
+        /*Self justifying to center*/
+        justify-self:center;
+    }
+    main >div {
+        /*Changing display of divs that are children of main to grid*/
+        display: grid;
+        /*Self justifying to center*/
+        justify-self: center;
+        /*Adjusting width to fit content*/
+        width:fit-content;
+    }
+    div + nav {
+        grid-area: nav1;
+    }
+    div + nav:nth-of-type(2) {
+        grid-area: nav2;
+    }
+    div + nav:nth-of-type(3) {
+        grid-area: nav3;
+    }
+    div + nav:nth-of-type(4) {
+        grid-area: nav4;
+    }
+    div:first-of-type {
+        /*Assigning grid-area to first div*/
+        grid-area: div1;
+    }
+    div:nth-of-type(2) {
+        /*Assigning grid-area to second div*/
+        grid-area: div2;
+        margin-top: 0.1em;
+    }
+    div:nth-of-type(3) {
+        /*Assigning grid-area to third div*/
+        grid-area: div3;
+    }
+    div:last-of-type {
+        /*Assigning grid-area to fourth div*/
+        grid-area: div4;
+    }
+
+    
+   
+
+}
