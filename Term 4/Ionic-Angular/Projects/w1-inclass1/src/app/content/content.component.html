@@ -1,0 +1,19 @@
+<p>{{currStudent.sname | uppercase}}</p>
+
+<div class="inputArea">
+    <h3>Data Binding Demonstration</h3>
+    <p>{{city}}</p>
+    <label><input [(ngModel)] = "city"></label><br>
+    <label><input bind-placeholder = "city"></label> <br><br>
+    <button [disabled]="city === ''"
+(click)="clearCity()">Reset City
+</button>
+</div>
+<div>
+    <h3 on-mouseover="mouse()"
+(mouseout)="mouse2()">Data Binding Demonstration
+</h3>
+<img [src]="image" width="150px">
+<p [innerHTML]="details"></p>
+</div>
+

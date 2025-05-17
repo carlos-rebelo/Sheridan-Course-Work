@@ -1,0 +1,22 @@
+div {
+    border: 0.3rem solid black;
+    margin: 0.3rem;
+    padding: 0.3rem;
+    text-align: center;
+}
+
+h3 {
+    color: red;
+}
+
+p {
+    color: blue;
+}
+
+button {
+    background-color: rgb(191, 2, 191);
+}
+
+input {
+    color: orange;
+}
